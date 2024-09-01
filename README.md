@@ -11,7 +11,7 @@
     - **Policy Implications**: Inform policy decisions related to policing practices.
     - **Fairness and Transparency**: Promote fairness and transparency in law enforcement interactions.
 
-    **Data Understanding:** 
+    **Data Understanding:**     
     Exploration of the dataset, understanding its structure, and identifying key features relevant to churn prediction, including customer demographics, account information, transaction patterns, and historical churn data.
     Certainly! Let's rephrase that for clarity and conciseness:
 
@@ -55,7 +55,11 @@
     Evaluating the performance of model performance using metrics such as accuracy, precision, recall, F1 score, and ROC AUC score ensures the selection of the most effective model. These metrics provide a comprehensive understanding of the model's predictive power.
     
     ##Recommendations:
-    Based on the model results, actionable insights and recommendations are provided to Horizon Trust Bank, helping to implement targeted interventions and improve customer retention strategies.
+    Further research could explore the impact of additional variables not included in the current dataset.
+
+    Advanced modeling techniques could be employed to improve prediction accuracy beyond the current 80% threshold.
+    
+    A deeper analysis into the potential biases related to gender and race could provide more nuanced understanding and inform training programs for officers.
 
     ##Contributors:
     - [Eric rono](https://github.com/ericrono)
